@@ -7,19 +7,23 @@ Admin has the rights to send the push notifications and update the event time li
 ## Built With
 * React
 * React Native CLI
-* Redux
+* Expo-Client CLI
+* Firebase
+* Context API
 * JavaScript
 
 ## Prerequisites
-* npm ~ 8.1.0
-* xcode 13
-* android studio (API Level 31, gradle 7.1.1)
+* npm ~ 7.1.0
+* xcode 12
+* android studio (API Level 30, gradle 7.1.1)
 * cocoa pods
+* Expo ```sh 
+npm install --global expo-cli ```
 
 ## Installation
 * Install libaries
 ```sh
-yarn install
+npm install
 ```
 * Install pods
 ```sh
@@ -43,7 +47,7 @@ If facing any issue while running project, install specific versions of tools us
 ## Working Video
 
 Watch Video Here: 
-https://www.youtube.com/embed/C6NKlwbepZY
+https://youtu.be/g4K1zddK5Fc
 
 
 
