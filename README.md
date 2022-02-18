@@ -33,11 +33,11 @@ cd ios && pod install && cd ..
 ## Getting Started
 * For android
 ```sh
-npm run android
+expo start --android
 ```
 * For ios
 ```sh
-npm run ios
+expo start --ios
 ```
 **NOTE:** 
 ```
